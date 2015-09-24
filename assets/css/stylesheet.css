@@ -1,0 +1,88 @@
+/*---Header styles ---*/
+h1{
+	font-size: 20px;
+    color: #FF6F5E;
+    font-family: 'Dosis', sans-serif;
+    text-shadow: 2px 2px #FCDDBC;
+}
+h2{
+    font-size: 18px;
+    color: #CFB271;
+    font-family: 'Courgette', cursive;
+}
+/*---Paragraph and list styles ---*/p{
+     margin-right: 2cm;
+}
+p,
+ul{
+	font-size: 16px;
+    color: #628844;
+    font-family: 'Merriweather', serif;
+}
+/*---Classes styles---*/
+.headerbractext{
+    font-size: 22px;
+    margin: 2px;
+    margin-bottom: none;
+}
+/*.line{
+border-width: 2px;
+}*/
+.image{
+    border-radius: 50px;
+    margin-bottom: none;
+}
+.headera {
+    border-radius: 25px;
+    background: #CFB271;
+    padding: 10px 20px 10px 20px; 
+    margin: 0 auto;
+    max-width: 990px;
+    min-height: 10px;
+    font-family: 'Courgette', cursive;
+    font-size: 50px;
+    text-align: center;
+}
+/*.upper {
+    border-radius: 25px;
+    background-position: left top;
+    background-repeat: repeat;
+    margin: 50px;
+    padding: 5px; 
+    max-width: 990px;
+    /*min-height: 10px;
+}*/
+.down {
+	border-radius: 25px;
+    background: url(../images/linedpaper.png);
+    background-position: left top;
+    background-repeat: repeat;
+    margin: 0 auto;
+    margin-top: 1em;
+    margin-bottom: 1em;
+    padding: 20px; 
+    max-width: 990px;
+    min-height: 800px;
+    box-shadow: 5px 5px 5px #CFB271;  
+}
+/*---Classes and tags styles ---*/.space,
+h2 {
+margin-left: 1em;
+}
+.dspace,
+p {
+margin-left: 2em;
+font-color: #628844;
+}
+.footera {
+    border-radius: 25px;
+    background: #CFB271;
+    padding: 20px; 
+    margin: 0 auto;
+    max-width: 990px;
+    min-height: 80px;  
+    font-family: 'Courgette', cursive;  
+}
+/*@media print{
+
+}*/

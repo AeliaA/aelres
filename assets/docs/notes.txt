@@ -1,0 +1,53 @@
+chk docs n delete
+chi previous examples
+PRINT.CSS
+Host
+google fonts, web safe fonts
+spacing, line ht, icons
+abbr
+&copy
+
+https://color.adobe.com/
+hover effect icon
+image sprite
+validator
+image resolution
+bestcssbuttongenerator.com
+media queries
+
+color palette-
+(FAEDCB HEX 250,237,203 RGB
+FFE5C9 255,229,201
+D7EAFF 215,234,255
+D4E2FF 212,226,255
+FFD4B7 255,212,183)
+sections
+photoshop
+illustrator-bullets
+
+image resolution
+bestcssbuttongenerator.com
+media queries
+
+Navigation buttons and bars are easy to understand and use
+Navigation is consistent throughout web site
+ 
+Link colors coordinate with page colors
+Links are underlined so they are instantly clear to the visitor
+ 
+Buttons are not big and dorky
+Every graphic has an alt label
+Graphics and backgrounds use browser-safe color
+ 
+graphic elements (photos, subheads, pull quotes)
+
+#C4F3F8
+
+
+https://www.browserstack.com/
+https://coolors.co/
+
+extras:
+golden ratio
+schema
+visual dominance

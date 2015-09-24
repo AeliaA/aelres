@@ -1,0 +1,85 @@
+body {
+	background: pink;
+	font-size: 16px;
+	margin:0;
+}
+
+a {
+	color:red;
+}
+
+a:hover {
+	color:crimson;
+}
+
+/*Layout---------*/
+
+header,
+.container,
+footer {
+	
+	margin: 0 auto;
+	width:88%;
+	max-width:960px;
+	/*border: 1px dashed green;*/
+}
+
+.wrapper {
+	padding: 1em 0;
+	background:#ffffff;
+	/*border: 1px dashed green;*/
+}
+
+/*Navigation-------------*/
+
+nav ul {
+	padding:0;
+}
+
+nav ul li {
+	float:left;
+	margin-right: .5em;
+	list-style: none;
+}
+
+nav ul li a {
+	/* creating the whole space as link*/
+	background: #cccccc;
+	padding: .5em 1em;
+	
+	/*------*/
+	border-radius: 15px;
+	transition: all 1s ease-in-out;
+
+}
+nav ul li a:hover {
+
+	background: pink;
+}
+
+/* Floats---*/
+
+.align-right {
+	float:right;
+	margin: 1em 0 1em 1em;
+}
+
+.align-left {
+	float:left;
+	margin: 1em 1em 1em 0;
+}
+.align-center {
+	margin: 1em auto;
+	display: block;
+}
+
+/* Misc to fix some visual layout mistakes
+------------------------------------------*/
+
+.clearfix:after {
+	content:".";
+	display:block;
+	height: 0;
+	clear:both;
+	visibility:hidden;
+}
